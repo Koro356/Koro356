@@ -1,0 +1,4 @@
+- 👋 Hi, I’m amir omer
+- 👀 I’m interested in app devolopment - games creating 
+- 🌱 I’m currently learning system admin - linux - python 
+- 💞️ I’m looking to collaborate on hyper casual game 
